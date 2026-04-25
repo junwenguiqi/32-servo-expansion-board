@@ -1,0 +1,11 @@
+SCT2450S/SCT2650S 5V/5A  	>>>other operations		----> rt9013-33 MCU
+	 					----> rt9013-33 other external operations
+
+NDP2450KC
+
+XL4015
+
+
+
+6个自由度舵机+一个0.5A电磁铁
+NDP1415

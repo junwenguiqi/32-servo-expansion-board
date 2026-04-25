@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\adtext\tetx\self\sanziqi\sanziqi_v1.2\sanziqi_v1.2\sanziqi_v1.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sanziqi_v1.2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sanziqi_v1.2-slotholes.txt|DrillLayers=gtl,gbl
